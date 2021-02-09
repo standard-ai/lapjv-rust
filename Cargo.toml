@@ -23,10 +23,10 @@ maintenance = { status = "as-is" }
 nightly = []
 
 [dependencies]
-ndarray = "0.13.0"
-num-traits = "0.2.11"
-log = "0.4.8"
+ndarray = "0.14.0"
+num-traits = "0.2.14"
+log = "0.4.14"
 
 [dev-dependencies]
-rand = "0.7.3"
-rustc_version = "0.2.3"
+rand = "0.8.3"
+rustc_version = "0.3.3"
